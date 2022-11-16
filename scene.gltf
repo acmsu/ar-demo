@@ -3,420 +3,184 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 11517,
+      "count": 44517,
       "max": [
-        0.80787193775177,
-        0.7134331464767456,
-        2.419325351715088
+        2.023574113845825,
+        7.270302772521973,
+        9.513982772827148
       ],
       "min": [
-        -0.6266539096832275,
-        -1.5574877262115479,
-        1.2322256565093994
+        -8.547650337219238,
+        -10.012540817260742,
+        -7.144069194793701
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 138204,
+      "byteOffset": 534204,
       "componentType": 5126,
-      "count": 11517,
+      "count": 44517,
       "max": [
-        0.9998828172683716,
-        0.9997298717498779,
-        0.9989839196205139
+        0.9999985098838806,
+        0.9999939799308777,
+        0.999993085861206
       ],
       "min": [
-        -0.9998135566711426,
-        -0.9997756481170654,
-        -0.99971604347229
+        -0.9999969005584717,
+        -0.9999744296073914,
+        -0.9999797344207764
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 3,
+      "bufferView": 1,
       "componentType": 5126,
-      "count": 11517,
+      "count": 44517,
       "max": [
-        0.9999818205833435,
-        0.9999695420265198,
-        0.9998839497566223,
-        1.0
+        0.9999138116836548,
+        0.994885265827179
       ],
       "min": [
-        -0.9998566508293152,
-        -0.9996083974838257,
-        -0.9999958276748657,
-        1.0
+        2.963091537822038e-05,
+        8.081644773483276e-05
       ],
-      "type": "VEC4"
+      "type": "VEC2"
     },
     {
       "bufferView": 1,
+      "byteOffset": 356136,
       "componentType": 5126,
-      "count": 11517,
+      "count": 44517,
       "max": [
-        0.9844768643379211,
-        0.9935170412063599
+        0.9999138116836548,
+        0.994885265827179
       ],
       "min": [
-        0.003733620047569275,
-        0.005598738789558411
+        2.963091537822038e-05,
+        8.081644773483276e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 712272,
+      "componentType": 5126,
+      "count": 44517,
+      "max": [
+        0.9999138116836548,
+        0.994885265827179
+      ],
+      "min": [
+        2.963091537822038e-05,
+        8.081644773483276e-05
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 59292,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 276408,
-      "componentType": 5126,
-      "count": 18847,
-      "max": [
-        0.4029778838157654,
-        1.0872509479522705,
-        1.5366071462631226
-      ],
-      "min": [
-        -0.13010257482528687,
-        -0.004227600060403347,
-        -0.0007282199803739786
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 502572,
-      "componentType": 5126,
-      "count": 18847,
-      "max": [
-        0.999839186668396,
-        0.9998749494552612,
-        0.9998160600662231
-      ],
-      "min": [
-        -0.9999936819076538,
-        -0.9999943971633911,
-        -0.9998102188110352
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 184272,
-      "componentType": 5126,
-      "count": 18847,
-      "max": [
-        0.9999407529830933,
-        0.9999664425849915,
-        0.9997863173484802,
-        1.0
-      ],
-      "min": [
-        -0.999902606010437,
-        -0.999890923500061,
-        -0.9999802708625793,
-        -1.0
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 92136,
-      "componentType": 5126,
-      "count": 18847,
-      "max": [
-        0.9927508234977722,
-        0.9934139847755432
-      ],
-      "min": [
-        0.009008466266095638,
-        0.009008466266095638
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 237168,
-      "componentType": 5125,
-      "count": 100530,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 728736,
-      "componentType": 5126,
-      "count": 8034,
-      "max": [
-        0.9638159871101379,
-        1.1989479064941406,
-        0.5140292048454285
-      ],
-      "min": [
-        0.22786939144134521,
-        -0.014050490222871304,
-        -0.5016189813613892
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 825144,
-      "componentType": 5126,
-      "count": 8034,
-      "max": [
-        0.9997525215148926,
-        0.9998502731323242,
-        0.9996938705444336
-      ],
-      "min": [
-        -0.9992996454238892,
-        -0.9999830722808838,
-        -0.9998414516448975
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 485824,
-      "componentType": 5126,
-      "count": 8034,
-      "max": [
-        0.9999102354049683,
-        0.9982783794403076,
-        0.9999898076057434,
-        1.0
-      ],
-      "min": [
-        -0.9999051690101624,
-        -0.9998336434364319,
-        -0.9993978142738342,
-        1.0
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 242912,
-      "componentType": 5126,
-      "count": 8034,
-      "max": [
-        0.9970778822898865,
-        0.9926348328590393
-      ],
-      "min": [
-        0.00769442692399025,
-        0.0075804260559380054
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 639288,
-      "componentType": 5125,
-      "count": 40680,
+      "count": 249252,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "braianlc (https://sketchfab.com/braianlc)",
-      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
-      "source": "https://sketchfab.com/3d-models/scooby-doo-and-shaggy-on-a-ghost-hunt-ec7db341ff2340dfa7ef2a58e6064f1a",
-      "title": "Scooby Doo and Shaggy on a Ghost Hunt"
+      "author": "Cucumber_Fan (https://sketchfab.com/Cucumber_Fan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/scooby-doo-4f9ef2bf98a3430aa834e3fb7a59cfec",
+      "title": "Scooby Doo"
     },
-    "generator": "Sketchfab-12.68.0",
+    "generator": "Sketchfab-12.66.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 802008,
+      "byteLength": 997008,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 307184,
-      "byteOffset": 802008,
+      "byteLength": 1068408,
+      "byteOffset": 997008,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 921552,
-      "byteOffset": 1109192,
+      "byteLength": 1068408,
+      "byteOffset": 2065416,
       "byteStride": 12,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 614368,
-      "byteOffset": 2030744,
-      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 2645112,
+      "byteLength": 3133824,
       "uri": "scene.bin"
     }
   ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
   "extensionsUsed": [
-    "KHR_materials_transmission"
+    "KHR_materials_pbrSpecularGlossiness"
   ],
   "images": [
     {
-      "uri": "textures/ghost_baseColor.png"
+      "uri": "textures/material_diffuse.png"
     },
     {
-      "uri": "textures/ghost_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/ghost_emissive.png"
-    },
-    {
-      "uri": "textures/ghost_normal.png"
-    },
-    {
-      "uri": "textures/shaggy_baseColor.png"
-    },
-    {
-      "uri": "textures/shaggy_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/shaggy_normal.png"
-    },
-    {
-      "uri": "textures/shaggy_transmission.png"
-    },
-    {
-      "uri": "textures/scooby_baseColor.png"
-    },
-    {
-      "uri": "textures/scooby_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/scooby_normal.png"
+      "uri": "textures/material_specularGlossiness.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "emissiveFactor": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "emissiveTexture": {
-        "index": 2
-      },
-      "name": "ghost",
-      "normalTexture": {
-        "index": 3
-      },
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 0
-        },
-        "metallicRoughnessTexture": {
-          "index": 1
-        }
-      }
-    },
-    {
-      "alphaMode": "BLEND",
-      "doubleSided": true,
       "extensions": {
-        "KHR_materials_transmission": {
-          "transmissionFactor": 1.0,
-          "transmissionTexture": {
-            "index": 7
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 1
           }
         }
       },
-      "name": "shaggy",
-      "normalTexture": {
-        "index": 6
-      },
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 4
-        },
-        "metallicRoughnessTexture": {
-          "index": 5
-        }
-      }
-    },
-    {
-      "doubleSided": true,
-      "name": "scooby",
-      "normalTexture": {
-        "index": 10
-      },
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 8
-        },
-        "metallicRoughnessTexture": {
-          "index": 9
-        }
-      }
+      "name": "material"
     }
   ],
   "meshes": [
     {
-      "name": "ghost_ghost_0",
+      "name": "Object_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TANGENT": 2,
-            "TEXCOORD_0": 3
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4
           },
-          "indices": 4,
+          "indices": 5,
           "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "shaggy_shaggy_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TANGENT": 7,
-            "TEXCOORD_0": 8
-          },
-          "indices": 9,
-          "material": 1,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "scooby_scooby_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 11,
-            "POSITION": 10,
-            "TANGENT": 12,
-            "TEXCOORD_0": 13
-          },
-          "indices": 14,
-          "material": 2,
           "mode": 4
         }
       ]
@@ -428,21 +192,21 @@
         1
       ],
       "matrix": [
-        0.015314106829464436,
+        1.0,
         0.0,
         0.0,
         0.0,
         0.0,
-        3.4004148007281544e-18,
-        -0.015314106829464436,
+        2.220446049250313e-16,
+        -1.0,
         0.0,
         0.0,
-        0.015314106829464436,
-        3.4004148007281544e-18,
+        1.0,
+        2.220446049250313e-16,
         0.0,
         0.0,
-        -5.159799911780283e-06,
-        1.8481999859432097e-06,
+        0.0,
+        0.0,
         1.0
       ],
       "name": "Sketchfab_model"
@@ -451,117 +215,65 @@
       "children": [
         2
       ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
       "matrix": [
         1.0,
         0.0,
         0.0,
         0.0,
         0.0,
-        0.0,
+        2.220446049250313e-16,
         1.0,
         0.0,
         0.0,
         -1.0,
-        0.0,
+        2.220446049250313e-16,
         0.0,
         0.0,
         0.0,
         0.0,
         1.0
       ],
-      "name": "fe3e176ba4034cb1ac60fe1a7e8047a7.fbx"
-    },
-    {
-      "children": [
-        3,
-        5,
-        7
-      ],
-      "name": "RootNode"
+      "name": "GLTF_SceneRootNode"
     },
     {
       "children": [
         4
       ],
+      "name": "root_0"
+    },
+    {
+      "children": [
+        5
+      ],
       "matrix": [
-        100.0,
+        -0.02962474152445793,
         0.0,
         0.0,
         0.0,
         0.0,
-        -1.629206793918314e-05,
-        -99.99999999999868,
-        0.0,
-        0.0,
-        99.99999999999868,
-        -1.629206793918314e-05,
+        0.029624750837683678,
         0.0,
         0.0,
         0.0,
         0.0,
+        -0.02962474152445793,
+        0.0,
+        -0.09663709998130798,
+        0.04061904177069664,
+        0.2911035418510437,
         1.0
       ],
-      "name": "ghost"
+      "name": "node_id3_1"
     },
     {
       "mesh": 0,
-      "name": "ghost_ghost_0"
-    },
-    {
-      "children": [
-        6
-      ],
-      "matrix": [
-        100.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        99.99999999999866,
-        1.6292067073209114e-05,
-        0.0,
-        0.0,
-        -1.6292067073209114e-05,
-        99.99999999999866,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ],
-      "name": "shaggy"
-    },
-    {
-      "mesh": 1,
-      "name": "shaggy_shaggy_0"
-    },
-    {
-      "children": [
-        8
-      ],
-      "matrix": [
-        100.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        99.99999999999866,
-        1.6292067073209114e-05,
-        0.0,
-        0.0,
-        -1.6292067073209114e-05,
-        99.99999999999866,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
-      ],
-      "name": "scooby"
-    },
-    {
-      "mesh": 2,
-      "name": "scooby_scooby_0"
+      "name": "Object_5"
     }
   ],
   "samplers": [
@@ -589,42 +301,6 @@
     {
       "sampler": 0,
       "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
-    },
-    {
-      "sampler": 0,
-      "source": 3
-    },
-    {
-      "sampler": 0,
-      "source": 4
-    },
-    {
-      "sampler": 0,
-      "source": 5
-    },
-    {
-      "sampler": 0,
-      "source": 6
-    },
-    {
-      "sampler": 0,
-      "source": 7
-    },
-    {
-      "sampler": 0,
-      "source": 8
-    },
-    {
-      "sampler": 0,
-      "source": 9
-    },
-    {
-      "sampler": 0,
-      "source": 10
     }
   ]
 }
